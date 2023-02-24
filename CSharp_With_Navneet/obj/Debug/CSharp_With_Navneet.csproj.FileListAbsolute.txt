@@ -1,0 +1,7 @@
+D:\DEVOPS\Training\Navneet\CSharp\CSharp_With_Navneet\bin\Debug\CSharp_With_Navneet.exe.config
+D:\DEVOPS\Training\Navneet\CSharp\CSharp_With_Navneet\bin\Debug\CSharp_With_Navneet.exe
+D:\DEVOPS\Training\Navneet\CSharp\CSharp_With_Navneet\bin\Debug\CSharp_With_Navneet.pdb
+D:\DEVOPS\Training\Navneet\CSharp\CSharp_With_Navneet\obj\Debug\CSharp_With_Navneet.csproj.AssemblyReference.cache
+D:\DEVOPS\Training\Navneet\CSharp\CSharp_With_Navneet\obj\Debug\CSharp_With_Navneet.csproj.CoreCompileInputs.cache
+D:\DEVOPS\Training\Navneet\CSharp\CSharp_With_Navneet\obj\Debug\CSharp_With_Navneet.exe
+D:\DEVOPS\Training\Navneet\CSharp\CSharp_With_Navneet\obj\Debug\CSharp_With_Navneet.pdb
